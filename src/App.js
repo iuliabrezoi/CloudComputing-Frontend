@@ -1,3 +1,4 @@
+// App.js
 import './App.css';
 import MainPage from './JavaS/Componente/MainPage';
 
